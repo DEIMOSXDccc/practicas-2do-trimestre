@@ -2,8 +2,8 @@
 #include <ThingerESP32.h>
 
 /* ========= THINGER.IO ========= */
-#define USERNAME "Kevin_Sacanecla"
-#define DEVICE_ID "Kevin_Sacancela"
+#define USERNAME "DanielQ"
+#define DEVICE_ID "DANIEL300"
 #define DEVICE_CREDENTIAL "123456"
 
 /* ========= WIFI ========= */
