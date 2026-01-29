@@ -10,8 +10,8 @@ const char* password = "MEC2025@.";
 const char* mqtt_server = "backend.thinger.io";
 const int mqtt_port = 1883;
 
-const char* user = "Kevin_Sacanecla";
-const char* device = "Kevin";
+const char* user = "DanielQ";
+const char* device = "DANIEL300";
 const char* device_password = "123456";
 
 // ---------- DHT ----------
